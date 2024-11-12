@@ -1,4 +1,4 @@
-Banco do Brasil com Z
+Banco do Brasil com Z.
 Este projeto simula um sistema bancário simples, com funcionalidades para criar, listar, atualizar, buscar, apagar contas e realizar operações como saque, depósito e transferência entre contas. Ele é desenvolvido em Java e segue o modelo de arquitetura MVC (Model-View-Controller), com foco na manipulação de contas bancárias.
 
 Funcionalidades
