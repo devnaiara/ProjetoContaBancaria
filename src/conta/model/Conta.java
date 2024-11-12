@@ -1,5 +1,6 @@
 package conta.model;
 
+
 public abstract class Conta {
     
     private int numero;
